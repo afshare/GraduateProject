@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="libinfospringmvc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="libinfospringmvc.war">
+      <element id="artifact" artifact-name="libinfospringmvc:war exploded" />
+    </root>
+  </artifact>
+</component>
